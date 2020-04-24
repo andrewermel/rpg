@@ -25,6 +25,9 @@ body {
     width: 200px;
     border: 1px solid white;
     position:absolute;
+    text-align: center;
+    color: white;
+
 }
 
 #j1{
@@ -46,4 +49,9 @@ body {
     bottom: 0%;
     right: 0%;
 
+}
+
+.jogador img{
+    height: 100px;
+    width: 100px;
 }
