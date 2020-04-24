@@ -1,0 +1,49 @@
+body {
+    background-image:url(tabuleiro.jpg );
+    background-repeat:no-repeat ;
+    background-size:100%;                            
+}
+.j1{
+    height:20px;
+
+}
+
+.j2{
+    height:20px;
+
+}
+.j3{
+    height:20px;
+
+}
+.j4{
+    height:20px;
+
+}
+.jogador{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    position:absolute;
+}
+
+#j1{
+    top: 10px;
+}
+
+#j2{
+    left: calc(50% - 100px);
+    bottom: 0%;
+}
+#j3{
+    top: 10px;
+    right: 0%;
+}
+#j4{
+    bottom: 0%;
+}
+#j5{
+    bottom: 0%;
+    right: 0%;
+
+}
