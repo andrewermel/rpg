@@ -28,24 +28,25 @@ body {
     text-align: center;
     color: white;
 
+
 }
 
 #j1{
     top: 10px;
 }
 
-#j2{
+#mestre{
     left: calc(50% - 100px);
     bottom: 0%;
 }
-#j3{
+#j2{
     top: 10px;
     right: 0%;
 }
-#j4{
+#j3{
     bottom: 0%;
 }
-#j5{
+#j4{
     bottom: 0%;
     right: 0%;
 
