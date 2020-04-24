@@ -7,7 +7,15 @@
     if(isset($_GET["pv1"])){
         $pv1=$_GET["pv1"];
     };
-    
+    if(isset($_GET["pv2"])){
+        $pv1=$_GET["pv2"];
+    };
+    if(isset($_GET["pv3"])){
+        $pv1=$_GET["pv3"];
+    };
+    if(isset($_GET["pv4"])){
+        $pv1=$_GET["pv5"];
+    };
 
 ?>
 <!DOCTYPE html>
